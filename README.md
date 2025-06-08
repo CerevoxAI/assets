@@ -1,2 +1,1 @@
-# assets
-Cerevox public assets
+# Cerevox public assets
